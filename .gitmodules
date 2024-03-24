@@ -1,0 +1,3 @@
+[submodule "source/notes"]
+	path = source/notes
+	url = https://github.com/MOSSJD/notes
