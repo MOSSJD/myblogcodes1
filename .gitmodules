@@ -1,3 +1,6 @@
 [submodule "source/_posts"]
 	path = source/_posts
 	url = git@github.com:MOSSJD/_posts.git
+[submodule "themes/yilia"]
+	path = themes/yilia
+	url = git@github.com:MOSSJD/yilia.git
