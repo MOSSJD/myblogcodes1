@@ -107,7 +107,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/MOSSJD/MOSSJD.github.io
+  repo: git@github.com:MOSSJD/MOSSJD.github.io.git
   branch: main
 
 jsonContent:
